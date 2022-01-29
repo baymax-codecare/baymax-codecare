@@ -20,7 +20,7 @@ I am a young-motivated Full Stack developer with 8+years experience, who conside
 
 - 💬 I am living in Grande Prairie, AB, Canada.
 
-
+📫 How to reach me: 1-940-294-6288, david.lee4015@gmail.com
 
 <h2>🚀 Some Tools I Use</h2>
 

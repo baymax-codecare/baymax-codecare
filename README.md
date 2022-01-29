@@ -29,7 +29,6 @@ I am a young-motivated Full Stack developer with 8+years experience, who conside
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="Angular" src="https://img.shields.io/badge/-Angular-45b8d8?style=flat-square&logo=angular&logoColor=white" />  
 <img alt="Vue" src="https://img.shields.io/badge/-VueJS-45b8d8?style=flat-square&logo=vue.js&logoColor=white" />
 <img alt="Web3.js" src="https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" />
 <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white" />

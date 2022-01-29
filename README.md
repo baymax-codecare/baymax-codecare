@@ -14,11 +14,11 @@ I am a young-motivated Full Stack developer with 8+years experience, who conside
 ## ⚡️ A Few Quick Facts
 
 
-- 🧐 Always learning about new technologies.
+🔭 Always Be Learning New Technologies for a Competitive Edge
 
-- 🤔 Javascript Expert, React/Vue(Frontend), Express/Nest.js(Backend)
+🤔 Javascript Expert, React/Vue(Frontend), Express/Nest.js(Backend)
 
-- 💬 I am living in Grande Prairie, AB, Canada.
+💬 I am living in Grande Prairie, AB, Canada.
 
 📫 How to reach me: 1-940-294-6288, david.lee4015@gmail.com
 

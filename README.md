@@ -45,8 +45,8 @@ I am a young-motivated Full Stack developer with 8+years experience, who conside
 
 </p>
 
-![Unicorn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=baymax-codecare&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baymax-codecare&langs_count=6&hide=TeXt,blade&hide_border=true&layout=compact&theme=radical)
+![Unicorn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=unicorn-talent&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unicorn-talent&langs_count=6&hide=TeXt,blade&hide_border=true&layout=compact&theme=radical)
 
 <!--
 **baymax-codecare/baymax-codecare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

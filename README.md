@@ -9,7 +9,7 @@ I am a young-motivated Full Stack developer with 8+years experience, who conside
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=unicorn-talent&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&theme=gruvbox" /> -->
 </p>
 
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=baymax-talent&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&theme=gruvbox" width="500"/>
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=baymax-codecare&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&theme=gruvbox" width="500"/>
 
 ## ⚡️ A Few Quick Facts
 

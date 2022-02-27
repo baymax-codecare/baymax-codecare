@@ -9,7 +9,7 @@ I am a young-motivated Full Stack developer with 8+years experience, who conside
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=unicorn-talent&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&theme=gruvbox" /> -->
 </p>
 
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=baymax-codecare&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&theme=gruvbox" width="500"/>
+<img align="right" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47xcme6lm4c3qucu3s9a1j3eabq5o2vq1o0n9z88bx&rid=giphy.gif&ct=g" width="500"/>
 
 ## ⚡️ A Few Quick Facts
 
@@ -44,6 +44,8 @@ I am a young-motivated Full Stack developer with 8+years experience, who conside
 
 
 </p>
+<img src="https://github-readme-stats.vercel.app/api?username=baymax-codecare&count_private=true&show_icons=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baymax-codecare&hide=TeX&layout=compact" />
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=baymax-codecare&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baymax-codecare&hide=TeX&layout=compact)
 

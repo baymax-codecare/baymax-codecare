@@ -9,7 +9,7 @@ I am a young-motivated Full Stack developer with 8+years experience, who conside
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=unicorn-talent&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&theme=gruvbox" /> -->
 </p>
 
-<img align="right" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47xcme6lm4c3qucu3s9a1j3eabq5o2vq1o0n9z88bx&rid=giphy.gif&ct=g" width="500"/>
+<img align="right" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="400"/>
 
 ## ⚡️ A Few Quick Facts
 

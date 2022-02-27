@@ -22,7 +22,10 @@ I am a young-motivated Full Stack developer with 8+years experience, who conside
 
 📫 How to reach me: 1-940-294-6288, david.lee4015@gmail.com
 
-<p align="left" style="margin-top:100px">
+<br />
+
+
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=baymax-codecare&count_private=true&show_icons=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baymax-codecare&hide=TeX&layout=compact" />
 </p>

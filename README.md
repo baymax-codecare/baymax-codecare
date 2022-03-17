@@ -49,11 +49,8 @@ I am a young-motivated Full Stack developer with 8+years experience, who conside
 </p> -->
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=baymax-codecare&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baymax-codecare&hide=TeX&layout=compact)
-
 
 <p align="left">
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=baymax-codecare&count_private=true&show_icons=true&include_all_commits=true" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baymax-codecare&hide=TeX&layout=compact" />
 </p>
 

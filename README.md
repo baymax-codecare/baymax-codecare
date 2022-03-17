@@ -26,7 +26,7 @@ I am a young-motivated Full Stack developer with 8+years experience, who conside
 
 
 <h2>🚀 Some Tools I Use</h2>
-
+<!--
 <p align="left">
   
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" />
@@ -41,12 +41,12 @@ I am a young-motivated Full Stack developer with 8+years experience, who conside
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<!-- <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> -->
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Boostrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-<!-- <img alt="AWS" src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img alt="AWS" src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
 
 
-</p>
+</p> -->
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=baymax-codecare&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baymax-codecare&hide=TeX&layout=compact)
@@ -57,7 +57,7 @@ I am a young-motivated Full Stack developer with 8+years experience, who conside
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baymax-codecare&hide=TeX&layout=compact" />
 </p>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=baymax-codecare.baymax-codecare)
+<!--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=baymax-codecare.baymax-codecare) -->
 <!--
 **baymax-codecare/baymax-codecare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

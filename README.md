@@ -25,7 +25,7 @@ I am a young-motivated Full Stack developer with 8+years experience, who conside
 <br />
 
 
-<h2>🚀 Some Tools I Use</h2>
+<!--<h2>🚀 Some Tools I Use</h2> -->
 <!--
 <p align="left">
   
@@ -48,12 +48,13 @@ I am a young-motivated Full Stack developer with 8+years experience, who conside
 
 </p> -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=baymax-codecare&count_private=true&show_icons=true&include_all_commits=true)
+<!--![Github Stats](https://github-readme-stats.vercel.app/api?username=baymax-codecare&count_private=true&show_icons=true&include_all_commits=true) -->
 
+<!--
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baymax-codecare&hide=TeX&layout=compact" />
 </p>
-
+-->
 <!--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=baymax-codecare.baymax-codecare) -->
 <!--
 **baymax-codecare/baymax-codecare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

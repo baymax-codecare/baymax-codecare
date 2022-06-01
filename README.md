@@ -18,8 +18,6 @@ I am a young-motivated Full Stack developer with 8+years experience, who conside
 
 🤔 Javascript Expert, React/Vue(Frontend), Express/Nest.js(Backend)
 
-📫 How to reach me: 1-940-294-6288
-
 <br />
 
 

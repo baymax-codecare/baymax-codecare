@@ -17,6 +17,7 @@ I am a young-motivated Full Stack developer with 8+years experience, who conside
 🔭 Always Be Learning New Technologies for a Competitive Edge
 
 🤔 Javascript Expert, React/Vue/Anguar(Frontend), Express/Nest.js(Backend)
+
 🤔 Former PHP experience with Laravel
 
 <br />
